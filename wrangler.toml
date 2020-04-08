@@ -1,0 +1,10 @@
+name = "weplant"
+type = "webpack"
+account_id = "55ec0970cd4f05ba1dd3ba55cbc93224"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./web/server"
+entry-point = "workers-site"
